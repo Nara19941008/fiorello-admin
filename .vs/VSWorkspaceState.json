@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EntityFrameworkProject",
+    "\\EntityFrameworkProject\\Areas",
+    "\\EntityFrameworkProject\\Areas\\AdminArea",
+    "\\EntityFrameworkProject\\Areas\\AdminArea\\Views",
+    "\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Dashboard",
+    "\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Shared",
+    "\\EntityFrameworkProject\\wwwroot",
+    "\\EntityFrameworkProject\\wwwroot\\admin"
+  ],
+  "SelectedNode": "\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Shared\\_AdminLayout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
